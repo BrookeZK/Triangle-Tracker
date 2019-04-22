@@ -12,7 +12,13 @@ _User Inputs three numbers that represent sides, the program will check them and
 
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
-| Gather User Input | 3 numbers | If you   
+| Gather User Input | 3 numbers | console stores each number |
+| ------------- |:-------------:| -----:|
+| Check what type of triangle is made | 1,2,3 | "Scalene" |
+| ------------- |:-------------:| -----:|
+| Check if numbers form a triangle | 1,2,3 | "true" |
+| ------------- |:-------------:| -----:|
+
 
 ## Setup/Installation Requirements
 

@@ -13,11 +13,9 @@ _User Inputs three numbers that represent sides, the program will check them and
 | Behavior | Input | Output |
 | ------------- |:-------------:| -----:|
 | Gather User Input | 3 numbers | console stores each number |
-| ------------- |:-------------:| -----:|
-| Check what type of triangle is made | 1,2,3 | "Scalene" |
-| ------------- |:-------------:| -----:|
+| Creates Triangle object from constructor | user input | makes Triangle object |
 | Check if numbers form a triangle | 1,2,3 | "true" |
-| ------------- |:-------------:| -----:|
+| if True, Check what type of triangle is made | 1,2,3 | "Scalene," "Isosceles" or "Equilateral" |
 
 
 ## Setup/Installation Requirements
